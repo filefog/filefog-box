@@ -1,6 +1,6 @@
 # FileFog Provider
 
-[![wercker status](https://app.wercker.com/status/ef333f2ec4b0e2f37d93169cf1331423/s "wercker status")](https://app.wercker.com/project/bykey/ef333f2ec4b0e2f37d93169cf1331423)[![Dependency Status](https://gemnasium.com/filefog/filefog-google.png)](https://gemnasium.com/filefog/filefog-google)
+[![wercker status](https://app.wercker.com/status/c3bb4d48188269dc181811337609d57b/s "wercker status")](https://app.wercker.com/project/bykey/c3bb4d48188269dc181811337609d57b)[![Dependency Status](https://gemnasium.com/filefog/filefog-box.png)](https://gemnasium.com/filefog/filefog-google)
 
 A [Filefog](https://github.com/filefog/filefog) adapter for Box.net.
 
