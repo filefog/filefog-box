@@ -59,8 +59,6 @@ new TestRunner({
         client_key : 'cch3sssk23ueqsbdh2k2zlv2i7rz06lp',
         client_secret : '6v7ywbCdut5FRdIjDeREofrFGc2ymGmA',
         redirect_url : 'http://localhost:3000/service/callback/box'
-    },
-    name: package.name
-
+    }
 
 });
