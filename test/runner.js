@@ -12,7 +12,8 @@
  */
 
 var mocha = require('mocha');
-var TestRunner = require('filefog-provider-tests');
+var GenerateCredentials = require('filefog-provider-tests').GenerateCredentials;
+var TestRunner = require('filefog-provider-tests').TestRunner;
 var Definition = require('../index.js');
 var winston = require('winston');
 
@@ -50,7 +51,7 @@ new TestRunner({
     mocha: {
         bail: true
     },
-
+    name: package.name,
     // Load the provider module.
     definition: Definition,
 
@@ -59,6 +60,11 @@ new TestRunner({
         client_key : 'cch3sssk23ueqsbdh2k2zlv2i7rz06lp',
         client_secret : '6v7ywbCdut5FRdIjDeREofrFGc2ymGmA',
         redirect_url : 'http://localhost:3000/service/callback/box'
+    },
+    credentials: {
+        _gist : '8b03e9461088987f2550'
     }
 
 });
+
+
