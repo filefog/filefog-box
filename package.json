@@ -1,6 +1,6 @@
 {
   "name": "filefog-box",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "box.net provider for filefog",
   "author": "Jason Kulatunga <jason@thesparktree.com>",
   "main": "index.js",
