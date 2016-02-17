@@ -16,4 +16,5 @@ test:
       -e CIRCLE_PROJECT_REPONAME
       -e CAPSULE_SOURCE_GITHUB_ACCESS_TOKEN
       -e CAPSULE_NODE_AUTH_TOKEN
+      -e GITHUB_ACCESS_TOKEN
       analogj/capsulecd:node
