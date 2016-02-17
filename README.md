@@ -1,6 +1,6 @@
 # FileFog Provider
 
-[![wercker status](https://app.wercker.com/status/c3bb4d48188269dc181811337609d57b/s "wercker status")](https://app.wercker.com/project/bykey/c3bb4d48188269dc181811337609d57b)[![Dependency Status](https://gemnasium.com/filefog/filefog-box.png)](https://gemnasium.com/filefog/filefog-box)
+[![Circle CI](https://circleci.com/gh/filefog/filefog-box.svg?style=svg)](https://circleci.com/gh/filefog/filefog-box)
 
 A [Filefog](https://github.com/filefog/filefog) adapter for Box.net.
 
